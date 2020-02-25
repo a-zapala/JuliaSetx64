@@ -1,8 +1,8 @@
-#Julia Set
+# Julia Set
 
-Requirements: allegro5
+Allegro5 is required.
 Left/rigt mouse click zooms in/out
 
-![](/screen1.jpg?raw=true "Screen1")
+![](screenshot1.png?raw=true "Screen1")
 
-![](/screen2.jpg?raw=true "Screen2")
+![](screenshot2.png?raw=true "Screen2")
